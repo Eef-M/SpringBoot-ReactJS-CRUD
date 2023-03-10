@@ -42,5 +42,5 @@ This is an CRUD project for a web application built with Spring Boot and ReactJS
 * MySQL
 * XAMPP
 
-By Eef Mekelliano
-Thanks!
+## By Eef Mekelliano
+## Thanks!
