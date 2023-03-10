@@ -20,14 +20,14 @@ This is an CRUD project for a web application built with Spring Boot and ReactJS
    
 3. Run the Spring Boot application
    ```sh
-   cd springboot-react-mysql
+   cd springboot-backend
    ./mvnw spring-boot:run
    ```
    or you can also run it via Intellij IDEA
    
 4. Run the ReactJS application
    ```sh
-   cd client
+   cd react-frontend
    npm install
    npm start
    ```
