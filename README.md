@@ -41,6 +41,8 @@ This is an CRUD project for a web application built with Spring Boot and ReactJS
 * ReactJS
 * MySQL
 * XAMPP
+* VS Code
+* Intellij IDEA
 
 ## By Eef Mekelliano
 ## Thanks!
