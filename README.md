@@ -15,8 +15,8 @@ This is an CRUD project for a web application built with Spring Boot and ReactJS
 2. Import the database schema
    * Launch XAMPP and start the Apache and MySQL services
    * Open phpMyAdmin in your browser (usually at http://localhost/phpmyadmin/)
-   * Create a new database called `<b>db_product</b>`
-   * Import the `<b>db_product.sql</b>` file located in the `<b>database</b>` directory of this project
+   * Create a new database called `**db_product**`
+   * Import the `**db_product.sql**` file located in the `**database**` directory of this project
    
 3. Run the Spring Boot application
    ```sh
